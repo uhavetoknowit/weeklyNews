@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Helvetica CE";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Helvetica CE Regular"), local("Helvetica-CE-Regular"), url(../fonts/HV.woff) format("woff");
+}
+
+@font-face {
+    font-family: "Helvetica CE";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Helvetica CE Bold"), local("Helvetica-CE-Bold"), url(../fonts/HVB.woff) format("woff");
+}
